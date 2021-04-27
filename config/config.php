@@ -1,0 +1,10 @@
+<?php
+
+$TITLE_BLOG = 'My Blog';
+$AUTHOR_BLOG = 'by Ovidio Baia';
+$LER_MAIS = "Leia mais";
+$PESQUISA = "PESQUISA";
+$PATROCINADOS = " PATROCINADOS";
+$DESTAQUES = "DESTAQUES";
+$POSTS = "POSTAGENS";
+$ENDERECO = "ENDEREÇO";
